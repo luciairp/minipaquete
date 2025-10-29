@@ -1,0 +1,20 @@
+---
+title: "minipkg"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{minipkg}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+Paquete para saber la hora
+
+```{r setup}
+library(minipaquete)
+```
