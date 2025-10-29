@@ -3,4 +3,7 @@ pkgdown: 2.1.3
 pkgdown_sha: ~
 articles:
   minipkg: minipkg.html
-last_built: 2025-10-29T17:04Z
+last_built: 2025-10-29T17:19Z
+urls:
+  reference: https://luciairp.github.io/minipaquete/reference
+  article: https://luciairp.github.io/minipaquete/articles
