@@ -11,7 +11,7 @@ RoxygenNote: 7.3.3
 Imports: 
     praise,
     rlang
-URL: https://github.com/luciairp/minipaquete
+URL: https://luciairp.github.io/minipaquete, https://github.com/luciairp/minipaquete
 BugReports: https://github.com/luciairp/minipaquete/issues
 Suggests: 
     knitr,
