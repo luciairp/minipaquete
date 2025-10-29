@@ -4,6 +4,8 @@
 # minipaquete
 
 <!-- badges: start -->
+
+[![R-CMD-check.yaml](https://github.com/luciairp/minipaquete/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/luciairp/minipaquete/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of minipaquete is to decir qué hora es
